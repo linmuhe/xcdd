@@ -2,3 +2,5 @@
 
 # 入口地址
 https://www.xcdd.info
+
+![image](https://github.com/xcdd1205/xcdd/blob/main/bibei.jpg.png)
